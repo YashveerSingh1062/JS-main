@@ -4,6 +4,7 @@
 ## Project3 = Digital Clock!
 ## Project4 = Guess game!
 ## Project5 = BackGround Change by random Color repeatedly!
-## Project6 = Accessing pressed key data in the form of a table!
+## Project6 = Accessing pressed key data as a table!
+## Project7 = It is a simple fully frontend + backend project displaying jokes by API from the backend!
 
 
