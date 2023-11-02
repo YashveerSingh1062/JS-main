@@ -18,4 +18,4 @@ window.addEventListener('keydown',(e) => {
 </table>
     </div>
     `
-})
+});
